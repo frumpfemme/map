@@ -1,0 +1,4 @@
+baseURL = "http://maptucson.org/"
+languageCode = "en-us"
+title = "MAP Tucson"
+theme = "ananke"
