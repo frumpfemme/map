@@ -1,4 +1,4 @@
-baseURL = "http://maptucson.org/"
+baseURL = "https://maptucson.org/"
 languageCode = "en-us"
 title = "MAP Tucson"
 theme = "ananke"
